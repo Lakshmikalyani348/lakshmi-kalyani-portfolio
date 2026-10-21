@@ -1,0 +1,109 @@
+
+
+# 🌸 Lakshmi Kalyani — Personal Portfolio
+
+Welcome to my personal portfolio! I am a Computer Science Engineering graduate specializing in Artificial Intelligence and Machine Learning, passionate about building intelligent applications and responsive web experiences.
+
+## 👩‍💻 About Me
+
+- **Name:** Rasamsetti Lakshmi Kalyani
+- **Degree:** B.Tech in Computer Science Engineering – AI
+- **College:** Kakinada Institute of Engineering and Technology
+- **Email:** lakshmikalyanirasamsetti@gmail.com
+
+- **Interests:** Artificial Intelligence, Machine Learning, Web Development, and Generative AI
+
+## 🛠️ Skills
+
+- **Programming:** Python, SQL
+- **Web Development:** HTML5, CSS3, JavaScript, Flask
+- **AI/ML:** Machine Learning, NLP, Computer Vision, Generative AI, LLMs
+- **Tools & Libraries:** Scikit-learn, Transformers, YOLOv8, Gemini API, Ollama
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Projects
+
+### 1. AI Interview Assistant with Proctoring
+**Technologies:** Python, Flask, Gemini API, YOLOv8
+
+- Detects faces and suspicious activities during online interviews.
+- Supports phone detection and tab-switch monitoring.
+- Uses AI to provide automated interview feedback.
+
+### 2. Sahaayak – AI Mental Health Companion
+**Technologies:** Python, DistilBERT, LLMs, NLP
+
+- Provides an AI-based conversational companion.
+- Supports English and Telugu interactions.
+- Includes emotion detection, voice interaction, and safety-focused responses.
+
+### 3. NeoMind – Personal AI Assistant
+**Technologies:** Python, Ollama, NLP, SQLite
+
+- Provides chatbot and task-management features.
+- Supports alarms and user authentication.
+- Uses intent recognition with an Ollama-based fallback.
+
+## 💼 Internships
+
+### AI/ML Intern
+**APSSDC – Edunet Foundation (IBM SkillsBuild)** | June 2024 – July 2024
+
+- Worked on machine learning pipelines.
+- Practiced data preprocessing, model training, and evaluation.
+
+### Web Development Intern
+**ApexPlanet Software Pvt. Ltd.** | August 2025 – September 2025
+
+- Developed responsive web applications.
+- Worked on multi-page websites and UI/UX.
+- Learned frontend and backend development concepts.
+
+## 🎓 Education
+
+| Qualification | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech – CSE (AI) | Kakinada Institute of Engineering and Technology | 2022–2026 | 75% |
+| Intermediate – MPC | AP Model School Junior College | 2020–2022 | 70% |
+
+## 📜 Certifications
+
+- Foundations of Modern Machine Learning – IIIT Hyderabad
+- Applied Artificial Intelligence – Microsoft, SAP & Edunet
+- Python Essentials 1 – Cisco Networking Academy
+
+## 🎨 Portfolio Features
+
+- Pink, white, and blue color theme
+- Responsive design for mobile, tablet, and desktop
+- Animated role text
+- Interactive mobile navigation
+- Projects, skills, education, and internship sections
+- Contact information and social links
+
+## 💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+
+## ▶️ How to Run Locally
+
+1. Download or clone this repository.
+2. Open the project folder in Visual Studio Code.
+3. Ensure these files are present:
+   - `index.html`
+   - `style.css`
+   - `script.js`
+4. Open `index.html` in your browser, or run it using the VS Code Live Server extension.
+
+## 📬 Contact Me
+
+- **Email:** [lakshmikalyanirasamsetti@gmail.com](mailto:lakshmikalyanirasamsetti@gmail.com)
+
+
+Feel free to connect with me for internship opportunities, collaborations, and projects related to AI/ML and web development.
+
+---
+
+⭐ Thank you for visiting my portfolio!
